@@ -1,0 +1,7 @@
+Reverse Alphabet Cipher
+
+Logic:
+The Reverse Alphabet Cipher is a simple substitution cipher 
+that replaces each letter with its corresponding letter from 
+the reverse alphabet. In this cipher, 'A' is replaced with 
+'Z', 'B' with 'Y', 'C' with 'X', and so on.
